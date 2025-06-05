@@ -39,3 +39,7 @@ This system is designed for agri-product stores to automate the manual billing p
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/agriproduct-shop-billing.git
+
+![Screenshot](https://user-images.githubusercontent.com/.../image.png)
+
+   
