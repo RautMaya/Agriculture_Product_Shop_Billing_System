@@ -8,7 +8,6 @@ The **AgriProduct Shop Billing System** is a desktop application developed using
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Screenshots](#screenshots)
 - [Learning Outcomes](#learning-outcomes)
 - [Acknowledgements](#acknowledgements)
 
@@ -40,6 +39,17 @@ This system is designed for agri-product stores to automate the manual billing p
    ```bash
    git clone https://github.com/yourusername/agriproduct-shop-billing.git
 
-![Screenshot](https://user-images.githubusercontent.com/.../image.png)
+🎓 Learning Outcomes
+Implemented CRUD operations using Windows Forms.
+
+Connected and managed SQL database operations.
+
+Designed user-friendly UI for billing operations.
+
+Gained experience in real-world application development.
+
+🙏 Acknowledgements
+This project was developed as a part of my final year BCS curriculum.
+Special thanks to Fork Infosystem and our mentor Ranjit Kumbher Sir for their valuable support and guidance.
 
    
